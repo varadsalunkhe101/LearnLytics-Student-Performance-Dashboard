@@ -42,15 +42,16 @@ The project analyzes student academic performance data and provides meaningful i
 
 Student Performance Dataset sourced from Kaggle.
 https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
+---
 
 ## Project Structure
----text
 LearnLytics/
 │
 ├── LearnLytics.ipynb ├── app.py (In ipynb file)
 ├── student_performance.csv
 ├── README.md
 └── screenshots/
+---
 
 ## Learning Outcomes
 
