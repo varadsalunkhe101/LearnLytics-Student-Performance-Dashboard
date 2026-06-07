@@ -41,6 +41,7 @@ The project analyzes student academic performance data and provides meaningful i
 ## Dataset
 
 Student Performance Dataset sourced from Kaggle.
+https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
 
 ## Project Structure
 
